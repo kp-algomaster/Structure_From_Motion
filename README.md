@@ -69,8 +69,6 @@ If you encounter issues with file reading, ensure that:
 
 ## License
 
-[Specify your license here]
-
 ## Acknowledgements
 
 This project uses the following open-source libraries:
