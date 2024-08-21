@@ -12,8 +12,7 @@ This project demonstrates how to perform 3D reconstruction using COLMAP and PyCo
 ## Installation
 
 1. Install the required packages:
-bash
-pip install pycolmap numpy open3d
+      pip install pycolmap numpy open3d
 
 2. Ensure COLMAP is installed on your system.
 
@@ -24,6 +23,7 @@ pip install pycolmap numpy open3d
 2. Update the `dataset_path` variable in the script to point to your image directory.
 
 3. Run the script:
+     python colmap_3DReconstruction.py
 
 
 ## Features
